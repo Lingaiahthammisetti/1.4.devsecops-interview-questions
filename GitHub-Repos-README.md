@@ -1,5 +1,5 @@
 # List of All Training course repositories
-
+```
 https://github.com/orgs/sivadevopsdaws74s/repositories
 https://github.com/daws-76s
 https://github.com/daws-78s
@@ -12,7 +12,8 @@ https://github.com/daws-86s/notes
 https://github.com/daws-88s/
 https://github.com/orgs/daws-90s/repositories
 https://learn.joindevops.com/learn/home/DAWS-78S/section/509940/lesson/3183718?
-
+```
+```
 
 # ArgoCD :
 https://learn.joindevops.com/learn/home/ArgoCD/section/658890/lesson/4120356?
@@ -69,7 +70,8 @@ https://www.youtube.com/watch?v=xpFXPYOUUBA
 
 https://www.youtube.com/watch?v=nf4HBnabIhc&t=4041s
 Why Blog Writing Boosts Your DevOps Career | Telugu Insights by Sivakumar Reddy
-
+```
+```
 
 What is your DevOps tool key you used in your project?
 Any tool you can learn and use it your project main intension.
@@ -106,3 +108,4 @@ Will we get a chance to use terraform CLI in PROD?
 highlander deployment
 
 we won't create own modules need many approvals.
+```
